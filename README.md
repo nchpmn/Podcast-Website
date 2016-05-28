@@ -5,10 +5,6 @@ Development of website for *as-yet untitled* [Relativity Studios][rel] podcast.
 
 [rel]: http://relativity.com.au
 
-Layout examples using [Pure CSS][pure] compiled from the [pure-site][] project.
-
-[pure]: http://purecss.io/
-[pure-site]: https://github.com/yahoo/pure-site
 
 
 License
