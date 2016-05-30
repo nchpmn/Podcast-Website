@@ -49,6 +49,7 @@ h3 {
     font-weight: 300;
     color: rgb(176, 202, 219);
 }
+.brand-tagline .topic { display:none; }
 
 .nav-list {
     margin: 0;
@@ -127,7 +128,7 @@ h3 {
     }
     .post-category-blog {
         /* background: #5aba59; green */
-
+    }
 .post-images {
     margin: 1em 0;
 }

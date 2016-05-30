@@ -13,7 +13,22 @@
 
 
 
+<?php echo js('https://code.jquery.com/jquery-2.2.4.min.js'); ?>
+<script type="text/javascript">
+    // code gets installed at the end of the body (after all other HTML)
+ var quotes = $(".topic");
+    var quoteIndex = -1;
 
+    function showNextQuote() {
+        ++quoteIndex;
+        quotes.eq(quoteIndex % quotes.length)
+            .fadeIn(1000)
+            .delay(2000)
+            .fadeOut(200, showNextQuote);
+    }
+
+    showNextQuote();
+</script>
 
 
 </body>
