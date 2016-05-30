@@ -7,4 +7,6 @@ email: nathan@nchp.mn
 language: en
 role: admin
 history:
-  - episodes
+  - posts/welcome
+firstname: Nathan
+lastname: Chapman
