@@ -12,6 +12,7 @@
     </header>
 
     <div class="post-description">
-        <p><?php echo $blog->text()->kirbytext()->excerpt(500) ?></p>
+        <p><?php echo str::excerpt($blog->text()->kirbytext(), 500, FALSE);
+ ?></p>
     </div>
 </section>
