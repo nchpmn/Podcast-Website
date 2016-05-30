@@ -37,13 +37,7 @@
         <div class="header">
             <h1 class="brand-title">NKB Podcast</h1>
             <h2 class="brand-tagline">A podcast about
-                <span class="topic">work</span>
-                <span class="topic">film</span>
-                <span class="topic">tea</span>
-                <span class="topic">life</span>
-                <span class="topic">cameras</span>
-                <span class="topic">editing</span>
-            .</h2>
+                <span class="topic">work</span><span class="topic">film</span><span class="topic">tea</span><span class="topic">life</span><span class="topic">cameras</span><span class="topic">editing</span>.</h2>
 
             <nav class="nav">
                 <ul class="nav-list">
