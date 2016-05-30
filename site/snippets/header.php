@@ -36,7 +36,7 @@
     <div class="sidebar pure-u-1 pure-u-md-1-4">
         <div class="header">
             <h1 class="brand-title">NKB Podcast</h1>
-            <h2 class="brand-tagline">A podcast during the work day.</h2>
+            <h2 class="brand-tagline">A podcast about <span>test</span>.</h2>
 
             <nav class="nav">
                 <ul class="nav-list">
