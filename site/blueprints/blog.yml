@@ -8,6 +8,13 @@ fields:
   author:
     label: Author
     type: user
+    width: 1/2
+  tag:
+    label: Tag
+    type: tags
+    lower: true
+    index: siblings
+    width: 1/2
   text:
     label: Text
     type:  textarea
