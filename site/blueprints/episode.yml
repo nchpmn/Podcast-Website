@@ -1,0 +1,20 @@
+title: Episode
+pages: true
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  author:
+    label: Author
+    type: user
+    width: 1/2
+  tag:
+    label: Tag
+    type: tags
+    lower: true
+    index: siblings
+    width: 1/2
+  text:
+    label: Text
+    type:  textarea

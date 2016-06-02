@@ -1,14 +1,20 @@
 <?php snippet('header') ?>
 
-First, the latest podcast episode
 
----
+<h1 class="content-subhead">Latest Episode</h1>
 
-Now all the episodes
+<?php
+    
+    $first = $site->index()->filterBy('tag','episode')->first();
+    
+    snippet('single-blog', array('blog' => $first)) ?>
 
-<?php foreach(page('posts')->children()->visible()->flip()->limit(4) as $post): ?>
-<?php snippet('single-blog', array('blog' => $post)) ?>
+<h1 class="content-subhead">Recent Posts</h1>
 
-<?php endforeach ?>
+
+    <?php $all = page('posts')->children()->visible()->limit(4); ?>
+    <?php foreach($all as $post): ?>
+        <?php if($post != $first) echo snippet('single-blog', array('blog' => $post)) ?>
+    <?php endforeach ?>
 
 <?php snippet('footer') ?>

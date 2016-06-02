@@ -7,6 +7,8 @@ email: nathan@nchp.mn
 language: en
 role: admin
 history:
+  - posts/the-invisible-keyboard
+  - posts/the-missing-chair
   - posts/welcome
 firstname: Nathan
 lastname: Chapman
