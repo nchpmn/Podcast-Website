@@ -15,6 +15,9 @@ fields:
     lower: true
     index: siblings
     width: 1/2
+  embed:
+    label: Embed Code
+    type: text
   text:
     label: Text
     type:  textarea

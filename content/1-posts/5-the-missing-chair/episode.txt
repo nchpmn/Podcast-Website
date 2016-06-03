@@ -1,0 +1,17 @@
+Title: #1: The Missing Chair
+
+----
+
+Author: nathan
+
+----
+
+Tag: episode
+
+----
+
+Text: as;ogha;sgh;aoihrg;oaiehrg;oiaherg;oihaerg;oihaerg
+
+----
+
+Embed: <script class="podigee-podcast-player" src="https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://podcasttest.podigee.io/1-the-test/embed?context=external"></script>

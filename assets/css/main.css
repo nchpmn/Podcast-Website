@@ -34,7 +34,7 @@ h3 {
 }
 
 .sidebar {
-    background: rgb(61, 79, 93);
+    background: rgb(61, 178, 93);
     color: #fff;
 }
 
@@ -47,7 +47,7 @@ h3 {
 }
 .brand-tagline {
     font-weight: 300;
-    color: rgb(176, 202, 219);
+    color: rgba(255, 255, 255, 0.75);
 }
 .brand-tagline .topic { display:none; }
 
@@ -63,7 +63,7 @@ h3 {
 }
 .nav-item a {
     background: transparent;
-    border: 2px solid rgb(176, 202, 219);
+    border: 2px solid rgba(255, 255, 255, 0.65);
     color: #fff;
     margin-top: 1em;
     letter-spacing: 0.05em;
@@ -72,7 +72,7 @@ h3 {
 }
 .nav-item a:hover,
 .nav-item a:focus {
-    border: 2px solid rgb(61, 146, 201);
+    border: 2px solid rgba(255, 255, 255, 0.95);
     text-decoration: none;
 }
 

@@ -7,8 +7,11 @@ email: nathan@nchp.mn
 language: en
 role: admin
 history:
-  - posts/the-invisible-keyboard
+  - >
+    posts/what-do-you-do-with-a-drunken-director
   - posts/the-missing-chair
+  - posts/the-invisible-keyboard
+  - posts/more
   - posts/welcome
 firstname: Nathan
 lastname: Chapman
