@@ -34,7 +34,8 @@ h3 {
 }
 
 .sidebar {
-    background: rgb(61, 178, 93);
+    background:#000 url(../images/NKB-BG-01.svg);
+    background-size:auto 100vh;
     color: #fff;
 }
 
