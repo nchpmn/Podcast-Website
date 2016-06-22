@@ -11,9 +11,7 @@
         </p>
     </header>
     
-    <div class="embed-container">
-        <?php echo $blog->embed() ?>
-    </div>
+    <?php echo $blog->embed()->oembed() ?>
 
     <div class="post-description">
         <p><?php echo str::excerpt($blog->text()->kirbytext(), 500, FALSE);

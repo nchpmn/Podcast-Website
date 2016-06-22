@@ -13,8 +13,12 @@
     <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
     <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
   
+    <!-- oEmbed CSS -->
+    <?php echo css('assets/plugins/oembed/css/oembed.css') ?>
+    
     <!-- Custom CSS -->
     <?php echo css('assets/css/main.min.css') ?>
+    
   
 
 

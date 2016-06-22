@@ -54,4 +54,4 @@ Why not indeed! They're like sex, except I'm having them! Hi, I'm a naughty nurs
 
 ----
 
-Embed: <script class="podigee-podcast-player" src="https://cdn.podigee.com/podcast-player/javascripts/podigee-podcast-player.js" data-configuration="https://podcasttest.podigee.io/1-the-test/embed?context=external"></script>
+Embed: https://soundcloud.com/nkbpodcast/1-what-is-this-podcast-about

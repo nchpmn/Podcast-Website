@@ -9,8 +9,8 @@ role: admin
 history:
   - >
     posts/what-do-you-do-with-a-drunken-director
-  - posts/the-missing-chair
   - posts/the-invisible-keyboard
+  - posts/the-missing-chair
   - posts/more
   - posts/welcome
 firstname: Nathan
